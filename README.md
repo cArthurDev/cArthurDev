@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arthur</h1>
+<h1 align="center">Gello 👋, Meu Nome é Arthur</h1>
 <h3 align="center">Sou Estudante de Bacharelado em Ciência da Computação, tenho 19 anos, e sempre em busca de novos conhecimentos da área da programação</h3>
 
 - 👯 Projeto 1 [Termo](https://carthurdev.github.io/Termo/)
