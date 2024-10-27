@@ -1,5 +1,5 @@
 # Opa Tudo Bom? <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="30"> 
-<img align="right" alt="PC GIF" src="https://i.imgur.com/3JhmjDu.gif](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="200" />
+<img align="right" alt="PC GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3NjZG1rNTQ1MzFmYjk0bDJlc2V6OTRpdDc0bGVoZjkzZWt2cWRwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="200" />
 
 Olá, eu sou Arthur Souza
 
