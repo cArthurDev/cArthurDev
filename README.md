@@ -1,14 +1,43 @@
-<h1 align="center">Hello 👋, Meu Nome é Arthur</h1>
-<h3 align="center">Sou Estudante de Bacharelado em Ciência da Computação, tenho 19 anos, e sempre em busca de novos conhecimentos da área da programação</h3>
+# Opa Tudo Bom? <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="30"> 
+<img align="right" alt="PC GIF" src="https://i.imgur.com/3JhmjDu.gif" width="200" />
 
-- 👯 Projeto 1 [Termo](https://carthurdev.github.io/Termo/)
+Olá, eu sou Arthur Souza
 
-- 🤝 Projeto 2 [Flowers Dia dos Namorados](https://carthurdev.github.io/Flower/)
+<!--
+**cArthurDev/cArthurDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/c_arthurdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="c_arthurdev" height="30" width="40" /></a>
-</p>
+:computer: Desenvolvedor e Designer Gráfico, atualmente focado no aprendizado de programação e design digital.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+:books: Meus conhecimentos em programação incluem Java, Python, HTML/CSS. Além disso, possuo habilidades em ferramentas de design como Photoshop, Corel Draw, e Canva.
+
+<br>
+
+## Sobre
+Sou estudante de Bacharelado em Ciência da Computação, com interesse tanto na área de desenvolvimento quanto no design. Estou constantemente buscando aprimorar minhas habilidades e expandir meus conhecimentos.
+<br><br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cArthurDev&langs_count=8&theme=dark)](https://github.com/cArthurDev/)
+[![Arthur Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=cArthurDev&theme=dark)](https://github.com/cArthurDev/)
+
+## Fale comigo 📫
+
+<a href="mailto:carthurdevv@gmail.com" alt="gmail" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/arthur-gonçalves-de-souza-designer-developer-8b9754278/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<h3 align="left">Habilidades: </h3>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br>
+![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Corel Draw](https://img.shields.io/badge/Corel_Draw-008080?style=for-the-badge&logo=corel-draw&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
