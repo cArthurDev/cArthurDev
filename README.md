@@ -7,14 +7,15 @@ Olá, eu sou Arthur Souza
 **cArthurDev/cArthurDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-:computer: Desenvolvedor e Designer Gráfico, atualmente focado no aprendizado de programação e design digital.
-
-:books: Meus conhecimentos em programação incluem Java, Python, HTML/CSS. Além disso, possuo habilidades em ferramentas de design como Photoshop, Corel Draw, e Canva.
+:books: Meus conhecimentos em programação incluem Java, Python, HTML/CSS. Além disso, possuo habilidades em Engenharia de Software, Compiladores e Computação Gráfica.
 
 <br>
 
 ## Sobre
-Sou estudante de Bacharelado em Ciência da Computação, com interesse tanto na área de desenvolvimento quanto no design. Estou constantemente buscando aprimorar minhas habilidades e expandir meus conhecimentos.
+Sou Arthur Souza, estudante de Ciência da Computação apaixonado por tecnologia e inovação. Tenho habilidades avançadas em programação, desenvolvendo projetos em Java, Python e HTML/CSS.
+
+Tenho experiência em desenvolvimento de softwares, resolução de problemas lógicos e criação de interfaces visuais atrativas. Gosto de unir meu conhecimento técnico à criatividade, buscando sempre oferecer soluções completas e inovadoras. Estou constantemente aprendendo e me aprimorando, e destaco minha versatilidade no uso de diferentes ferramentas, além do compromisso com a excelência em tudo que faço.
+
 <br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cArthurDev&langs_count=8&theme=dark)](https://github.com/cArthurDev/)
@@ -37,7 +38,4 @@ Sou estudante de Bacharelado em Ciência da Computação, com interesse tanto na
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 <br>
-![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Corel Draw](https://img.shields.io/badge/Corel_Draw-008080?style=for-the-badge&logo=corel-draw&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
