@@ -1,38 +1,133 @@
-# Opa Tudo Bom? <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="30"> 
-<img align="right" alt="PC GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3NjZG1rNTQ1MzFmYjk0bDJlc2V6OTRpdDc0bGVoZjkzZWt2cWRwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="200" />
+# 👋 Olá, eu sou Arthur Gonçalves de Souza
 
-Olá, eu sou Arthur Souza
+💻 Estudante de Ciência da Computação apaixonado por tecnologia, desenvolvimento de software e inteligência artificial.
 
-<!--
-**cArthurDev/cArthurDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+Atualmente atuo em projetos acadêmicos e pessoais voltados para:
+- Inteligência Artificial
+- Visão Computacional
+- Desenvolvimento Back-End
+- Desenvolvimento Web
+- Automação de Processos
 
-:books: Meus conhecimentos em programação incluem Java, Python, HTML/CSS. Além disso, possuo habilidades em Engenharia de Software, Compiladores e Computação Gráfica.
+---
 
-<br>
+# 🚀 Sobre Mim
 
-## Sobre
-Sou Arthur Souza, estudante de Ciência da Computação apaixonado por tecnologia e inovação. Tenho habilidades avançadas em programação, desenvolvendo projetos em Java, Python e HTML/CSS.
+Sou estudante de Ciência da Computação com experiência em desenvolvimento de software, inteligência artificial e visão computacional. Atuo em projetos acadêmicos e pessoais voltados para automação, sistemas web e produtividade digital.
 
-Tenho experiência em desenvolvimento de softwares, resolução de problemas lógicos e criação de interfaces visuais atrativas. Gosto de unir meu conhecimento técnico à criatividade, buscando sempre oferecer soluções completas e inovadoras. Estou constantemente aprendendo e me aprimorando, e destaco minha versatilidade no uso de diferentes ferramentas, além do compromisso com a excelência em tudo que faço.
+Possuo conhecimento em Java, Python e desenvolvimento back-end, com interesse em IA e criação de soluções escaláveis. :contentReference[oaicite:0]{index=0}
 
-<br><br>
+---
 
-## Fale comigo 📫
+# 🧠 Tecnologias
 
-<a href="mailto:carthurdevv@gmail.com" alt="gmail" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+<div style="display: inline_block"><br>
 
-<a href="https://www.linkedin.com/in/arthur-gonçalves-de-souza-designer-developer-8b9754278/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img align="center" alt="Java" height="40" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 
-<h3 align="left">Habilidades: </h3>
+<img align="center" alt="Python" height="40" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-<br>
+<img align="center" alt="JavaScript" height="40" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 
+<img align="center" alt="HTML" height="40" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+
+<img align="center" alt="CSS" height="40" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+
+<img align="center" alt="MySQL" height="40" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+
+<img align="center" alt="Git" height="40" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+
+<img align="center" alt="GitHub" height="40" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+
+</div>
+
+---
+
+# 📚 Formação
+
+🎓 Instituto Federal de Brasília — Campus Taguatinga  
+Bacharelado em Ciência da Computação  
+2026 - Atual
+
+🎓 Instituto Federal Goiano — Campus Morrinhos  
+Bacharelado em Ciência da Computação  
+2023 - 2025
+
+---
+
+# 💼 Experiência
+
+## 🔹 IntegraTech — IF Goiano
+**Integrante Técnico e Curador de Projeto**  
+2024 - 2025
+
+Atuação no desenvolvimento e organização do acervo tecnológico, promovendo integração entre história da computação e soluções modernas de software. :contentReference[oaicite:1]{index=1}
+
+---
+
+## 🔹 Laboratório Nupping — IF Goiano
+**Pesquisador em Visão Computacional**  
+2025
+
+Desenvolvimento de software de rastreamento automatizado utilizando visão computacional aplicada à pecuária, focado em precisão de dados e automação de processos. :contentReference[oaicite:2]{index=2}
+
+---
+
+# 🏆 Experiência Acadêmica
+
+- Presidente do C.A.C.C
+- Representante Discente no Colegiado
+- Participação em projetos de pesquisa
+- Organização de atividades acadêmicas
+
+---
+
+# 🎯 Áreas de Interesse
+
+- Inteligência Artificial
+- Visão Computacional
+- Desenvolvimento Back-End
+- Desenvolvimento Web
+- Análise de Dados
+- Automação de Processos
+
+---
+
+# 🤝 Soft Skills
+
+- Resolução de Problemas
+- Trabalho em Equipe
+- Comunicação
+- Aprendizado Rápido
+- Organização
+
+---
+
+# 📫 Contato
+
+📧 arthursouzagtba@gmail.com  
+📱 (64) 99281-7769
+
+---
+
+# 🌐 Redes
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](SEU_GITHUB)
+
+---
+
+<div align="center">
+
+⭐ Sempre buscando aprender, evoluir e desenvolver soluções que gerem impacto real.
+
+</div>
