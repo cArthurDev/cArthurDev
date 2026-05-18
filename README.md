@@ -18,9 +18,6 @@ Tenho experiência em desenvolvimento de softwares, resolução de problemas ló
 
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cArthurDev&langs_count=8&theme=dark)](https://github.com/cArthurDev/)
-[![Arthur Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=cArthurDev&theme=dark)](https://github.com/cArthurDev/)
-
 ## Fale comigo 📫
 
 <a href="mailto:carthurdevv@gmail.com" alt="gmail" target="_blank">
