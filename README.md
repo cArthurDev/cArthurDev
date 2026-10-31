@@ -7,8 +7,8 @@
 
 **Building software, exploring artificial intelligence and turning ideas into real solutions.**
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-18181B?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/cArthurDev)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-18181B?style=for-the-badge&logo=vercel&logoColor=white)]((https://www.carthurdev.com.br/))
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/arthur-gon%C3%A7alves-de-souza-85688b406/))
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthursouzagtba@gmail.com)
 
 </div>
